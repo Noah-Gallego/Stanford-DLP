@@ -24,6 +24,18 @@ The modules contain Jupyter notebooks, course PDFs, certificates, and supporting
 - Keras
 - OpenCV-oriented computer-vision exercises
 
+### Important libraries
+
+- TensorFlow and Keras
+- NumPy and SciPy
+- Matplotlib and scikit-learn
+- Pillow and h5py
+
+## References
+
+- [TensorFlow automatic differentiation guide](https://www.tensorflow.org/guide/autodiff)
+- [Neural Networks and Deep Learning course](https://www.coursera.org/learn/neural-networks-deep-learning)
+
 ## Usage
 
 Open the notebooks inside each module with Jupyter and provide any inputs requested by the individual exercise. No root dependency manifest or automated test suite is included.
