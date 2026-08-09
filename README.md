@@ -2,6 +2,10 @@
 
 Course and project materials from the Stanford Deep Learning Portal image-recognition track.
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,jupyter&theme=light" alt="Python, TensorFlow, and Jupyter" />
+</p>
+
 ## Overview
 
 The repository is divided into three modules:
