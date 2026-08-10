@@ -20,21 +20,6 @@ The modules contain Jupyter notebooks, course PDFs, certificates, and supporting
 
 ![Logistic regression cat-inference diagram](https://noah-readme-assets-v4.vercel.app/Stanford-DLP/logreg-cat-inference.png)
 
-## Tech stack
-
-- Python
-- Jupyter Notebook
-- TensorFlow
-- Keras
-- OpenCV-oriented computer-vision exercises
-
-### Important libraries
-
-- TensorFlow and Keras
-- NumPy and SciPy
-- Matplotlib and scikit-learn
-- Pillow and h5py
-
 ## References
 
 - [TensorFlow automatic differentiation guide](https://www.tensorflow.org/guide/autodiff)
