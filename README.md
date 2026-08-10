@@ -16,6 +16,10 @@ The repository is divided into three modules:
 
 The modules contain Jupyter notebooks, course PDFs, certificates, and supporting screenshots.
 
+## Preview
+
+![Logistic regression cat-inference diagram](https://noah-readme-assets-v4.vercel.app/Stanford-DLP/logreg-cat-inference.png)
+
 ## Tech stack
 
 - Python
