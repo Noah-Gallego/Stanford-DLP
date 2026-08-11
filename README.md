@@ -2,6 +2,10 @@
 
 Course and project materials from the Stanford Deep Learning Portal image-recognition track.
 
+> [!NOTE]
+> Open notebooks within their module directories and follow each exercise's own input requirements; there is no root dependency manifest or automated test suite.
+
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,jupyter&theme=light" alt="Python, TensorFlow, and Jupyter" />
 </p>
@@ -32,3 +36,11 @@ Open the notebooks inside each module with Jupyter and provide any inputs reques
 ## Attribution
 
 These materials include course content and references to the Stanford Deep Learning Portal and associated course exercises. Preserve the original attribution and usage terms when sharing or reusing them.
+
+## Structure
+
+```text
+DLP Module 1 -> foundational neural-network and logistic-regression notebooks
+DLP Module 2 -> initialization, regularization, optimization, and TensorFlow exercises
+DLP Module 3 -> convolutional models, detection, recognition, segmentation, and style transfer
+```
